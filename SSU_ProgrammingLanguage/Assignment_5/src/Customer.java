@@ -42,17 +42,11 @@ class Customer {
 
     public int getOrderCount() { return orderCount;}
 
-    public String getNumber() {
-        return number;
-    }
+    public String getNumber() { return number; }
 
-    public String getName() {
-        return name;
-    }
+    public String getName() { return name; }
 
-    public String getPhoneNumber() {
-        return phoneNumber;
-    }
+    public String getPhoneNumber() { return phoneNumber; }
 
     public String getRegisterDate() { return registerDate; }
 }
